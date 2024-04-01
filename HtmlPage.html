@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+
+
+</head>
+
+<body>
+
+    <div mg-app="myapp">
+
+        <input type="text" mg-model="valA" on_change="chng1" />
+        <input type="text" mg-model="valB" on_change="chng2" />
+        <button mg-click="funclick">button1</button>
+        <button mg-click="funclick1">button2</button>
+
+        <div>
+            <label id="lbltxt"></label>
+        </div>
+
+    </div>
+
+
+    <script>
+        var angularMini = {};
+
+        angularMini.Controller = function (name, fun) {
+
+            var divs = document.getElementsByTagName('div');
+            var validApp = false;
+            for (var i = 0; i < divs.length; i++) {
+                if (divs[i].getAttribute('mg-app')) {
+                    validApp = true; break;
+                }
+            }
+            if (!validApp) {
+                console.error(name + ' is not a present in the DOM');
+                return;
+            }
+
+            var $scope = {};
+            fun($scope);
+
+            var textBoxes = document.getElementsByTagName('input');
+            for (var i = 0; i < textBoxes.length; i++) {
+                var model = textBoxes[i].getAttribute('mg-model');
+                if (model != null) {
+                    debugger
+                    textBoxes[i].value = $scope[model];
+                    textBoxes[i].addEventListener("keyup", function () {
+                        debugger
+                        var _mod = this.getAttribute('mg-model');
+                        $scope[_mod] = this.value;
+
+                    })
+                }
+            }
+
+            var change = document.getElementsByTagName('input');
+            for (var i = 0; i < change; i++) {
+                var onchng = change[i].getAttribute('on_change');
+                textBoxes[i].addEventListener("keyup", function () {
+                    lbltxt.innerHTML += onchng;
+                }
+                )
+            }
+
+            var buttons = document.getElementsByTagName('button');
+            debugger
+            for (var i = 0; i < buttons.length; i++) {
+                var event = buttons[i].getAttribute('mg-click');
+                if (event != null)
+                    buttons[i].addEventListener("click", $scope[event]);
+
+            }
+        }
+
+
+
+
+
+
+
+    </script>
+
+
+    <script>
+
+        angularMini.Controller('myapp', function ($scope) {
+
+            $scope.valA = 'a';
+            $scope.valB = 'b';
+
+
+            $scope.funclick = function () {
+                // debugger;
+                alert($scope.valA);
+            }
+            $scope.funclick1 = function () {
+
+                // debugger;
+                alert($scope.valB);
+            }
+
+        });
+
+
+
+    </script>
+
+
+
+</body>
+
+</html>

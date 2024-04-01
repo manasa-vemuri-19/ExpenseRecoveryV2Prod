@@ -1,0 +1,2943 @@
+Time: 16/11/2017 01:32:39 PM
+manjunath_c05
+{"customerCode":"ALL","PM":"ganesh.pai","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 01:36:40 PM
+Vikas_Yadav01
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 05:07:47 PM
+Kshitij.Gaurav
+{"customerCode":"ALL","PM":"Vilas_Pawar","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:04:21 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"Vikas_Yadav01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:04:25 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"Vikas_Yadav01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:06:04 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"ganesh.pai","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:06:06 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"ganesh.pai","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:06:55 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"Vikas_Yadav01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:06:57 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"Vikas_Yadav01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 06:07:07 PM
+Kshitij.GauravKshitij.GauravADMIN
+{"customerCode":"ALL","PM":"ganesh.pai","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/11/2017 07:30:33 PM
+Siju_BhaskaranNairSiju_BhaskaranNairPM
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"Update Pending","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 19/01/2018 11:06:28 AM
+manjunath_c05Rahul_MutnejaCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 04/07/2018 10:51:19 AM
+Nirmala.EswarraoDeepak_Thakur01Delegated_PM
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 04/07/2018 10:51:27 AM
+Nirmala.EswarraoDeepak_Thakur01Delegated_PM
+{"customerCode":"ALL","PM":"","DM":"Alokmoy_Bose","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 13/08/2018 08:44:20 AM
+aravind_kumarraravind_kumarr
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "aravind_kumarr",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 13/08/2018 08:44:22 AM
+aravind_kumarraravind_kumarr
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 13/08/2018 08:44:30 AM
+aravind_kumarraravind_kumarr
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 13/08/2018 08:57:53 AM
+aravind_kumarraravind_kumarr
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 13/08/2018 08:57:53 AM
+aravind_kumarraravind_kumarr
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/10/2018 02:21:35 PM
+Nirmala.EswarraoAswathir_PADMIN
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 08/01/2019 12:27:25 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/01/2019 12:27:44 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/01/2019 12:27:51 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/02/2019 12:26:44 PM
+Nirmala.EswarraoNirmala.EswarraoADMIN
+{"customerCode":"ALL","PM":"Abhijit_Bhattacharje","DM":"","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 02/07/2019 12:05:12 PM
+lumina_ratnarajlumina_ratnarajADMIN
+{"customerCode":"ALL","PM":"Sivannarayana_I","DM":"","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/07/2019 06:11:18 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/07/2019 06:11:21 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/07/2019 04:47:53 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"lecio_oliveira","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/07/2019 04:48:04 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"lecio_oliveira","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/07/2019 04:49:24 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"lecio_oliveira","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 22/07/2019 03:56:09 PM
+rimjhim.nigamlumina_ratnarajADMIN
+{"customerCode":"ALL","PM":"","DM":"lecio_oliveira","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"SAP","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 23/07/2019 10:13:03 AM
+rimjhim.nigamrimjhim.nigam
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "rimjhim.nigam",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 22/08/2019 09:02:34 AM
+sumana.psumana.p
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sumana.p",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 22/08/2019 09:02:54 AM
+sumana.psumana.p
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 22/08/2019 09:02:57 AM
+sumana.psumana.p
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 22/08/2019 09:03:42 AM
+sumana.psumana.p
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 22/08/2019 09:03:42 AM
+sumana.psumana.p
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 29/08/2019 09:35:31 AM
+rimjhim.nigamrimjhim.nigam
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "rimjhim.nigam",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/09/2019 09:21:14 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/09/2019 09:21:38 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/09/2019 09:21:52 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/09/2019 09:22:08 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 08/11/2019 03:24:47 PM
+rashmi.srikantrashmi.srikant
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "rashmi.srikant",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/11/2019 03:25:18 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/11/2019 03:25:25 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/01/2020 08:52:38 AM
+sumana.psumana.p
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sumana.p",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/03/2020 12:45:01 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 23/03/2020 02:24:01 PM
+lumina_ratnarajlumina_ratnarajADMIN
+{"customerCode":"ALL","PM":"Balamurugan_Chami","DM":"","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 01/04/2020 01:20:37 PM
+rimjhim.nigamrimjhim.nigamCUSTOMER
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"Project Party","profitCentre":"ALL","PracticeLine":"SAP","category":"Update Pending","status":"Reversal Pending with PM/DM","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/04/2020 10:48:20 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/05/2020 12:50:16 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/05/2020 12:50:21 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 12:50:22 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 12:50:36 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 12:50:37 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:00:34 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:00:34 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:00:45 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:00:46 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:02:26 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"RCLORC","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:04:56 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ECSORC","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:04:56 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ECSORC","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:14:42 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/05/2020 01:14:43 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"Update Pending","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 12:00:16 PM
+Niharika_GoyalNiharika_Goyal
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Niharika_Goyal",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/06/2020 01:58:08 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/06/2020 01:58:13 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 01:58:14 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:14:03 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"Sanjeev_Pendse","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:14:04 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"Sanjeev_Pendse","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:14:19 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"Sanjeev_Pendse","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":3,"pagesize":15}
+Time: 09/06/2020 02:27:14 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"Sanjay_Kanchan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:27:14 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"Sanjay_Kanchan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:28:13 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"Sanjay_Kanchan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2020 02:28:13 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"Sanjay_Kanchan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 11/06/2020 01:08:49 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 12/06/2020 08:17:39 PM
+sridevi_srirangansridevi_srirangan
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sridevi_srirangan",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 12/06/2020 08:17:47 PM
+sridevi_srirangansridevi_srirangan
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 12/06/2020 08:17:48 PM
+sridevi_srirangansridevi_srirangan
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 15/06/2020 08:58:39 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 15/06/2020 08:58:42 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 15/06/2020 08:58:46 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 26/08/2020 05:05:26 PM
+sridevi_srirangansridevi_srirangan
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sridevi_srirangan",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 26/08/2020 05:05:34 PM
+sridevi_srirangansridevi_srirangan
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 26/08/2020 05:05:37 PM
+sridevi_srirangansridevi_srirangan
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/08/2020 05:37:21 PM
+Karthik_Mahalingam01Karthik_Mahalingam01
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Karthik_Mahalingam01",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/08/2020 05:37:22 PM
+Karthik_Mahalingam01Karthik_Mahalingam01
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/08/2020 05:37:23 PM
+Karthik_Mahalingam01Karthik_Mahalingam01
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 03/09/2020 05:01:55 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 07/09/2020 05:22:25 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/09/2020 08:20:46 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/09/2020 08:20:55 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/09/2020 08:20:57 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/09/2020 09:06:41 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 21/09/2020 09:13:31 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 21/09/2020 09:13:33 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 21/09/2020 09:13:38 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/10/2020 09:30:30 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 05/10/2020 09:30:33 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/10/2020 09:30:33 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/10/2020 09:30:53 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 05/10/2020 09:30:53 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 20/10/2020 10:09:53 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/10/2020 10:09:58 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/10/2020 10:09:58 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/10/2020 08:59:17 AM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/10/2020 10:22:57 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/10/2020 10:23:01 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/10/2020 10:23:02 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/11/2020 11:25:10 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 17/11/2020 09:31:39 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 17/11/2020 09:31:50 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 17/11/2020 09:31:52 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/12/2020 09:59:41 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 07/12/2020 09:59:44 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/12/2020 09:59:45 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/12/2020 08:59:05 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/12/2020 08:59:07 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/12/2020 08:59:09 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 14/12/2020 09:10:31 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 14/12/2020 09:11:04 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 14/12/2020 09:11:14 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/12/2020 01:05:19 PM
+sahana.shankaranandmanjunath_c05CUSTOMER
+{"customerCode":"ALL","PM":"","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/12/2020 01:05:55 PM
+sahana.shankaranandmanjunath_c05CUSTOMER
+{"customerCode":"ALL","PM":"","DM":"Atul_Chorbele","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 23/12/2020 09:04:46 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 23/12/2020 10:24:43 AM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/12/2020 09:55:19 AM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 29/12/2020 08:58:09 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 29/12/2020 08:58:22 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 29/12/2020 08:58:23 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/01/2021 12:55:14 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 07/01/2021 12:55:30 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/01/2021 12:55:31 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 15/01/2021 01:12:12 PM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 15/01/2021 01:12:15 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 27/01/2021 09:12:00 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 27/01/2021 09:12:05 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 27/01/2021 09:12:06 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 27/01/2021 09:13:03 AM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"SAP","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 27/01/2021 09:13:04 AM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"SAP","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 04/02/2021 08:10:56 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 04/02/2021 08:11:04 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 04/02/2021 08:11:07 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 04/02/2021 08:15:51 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 04/02/2021 08:15:51 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 08/02/2021 05:26:26 PM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/02/2021 05:26:31 PM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/02/2021 05:26:32 PM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/02/2021 05:26:51 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Sharana_Basappa","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 08/02/2021 05:26:51 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Sharana_Basappa","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/02/2021 09:26:26 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/02/2021 09:26:36 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/02/2021 09:26:37 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/02/2021 12:43:33 PM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 12/02/2021 10:05:48 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/02/2021 09:32:54 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/02/2021 09:33:01 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 09:33:05 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 02:20:47 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/02/2021 02:20:52 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 02:20:54 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 02:21:32 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 02:21:33 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 06:36:28 PM
+vikranth.dvikranth.d
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "vikranth.d",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/02/2021 06:36:34 PM
+vikranth.dvikranth.d
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/02/2021 06:36:50 PM
+vikranth.dvikranth.d
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 01/03/2021 08:18:40 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 01/03/2021 08:18:54 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 01/03/2021 08:19:06 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/03/2021 11:51:56 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/03/2021 11:51:59 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/03/2021 11:51:59 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 10:37:40 AM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/03/2021 11:43:58 AM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/03/2021 11:44:08 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 11:44:09 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:41:15 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Muthukutty_Kanagaraj","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:41:16 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Muthukutty_Kanagaraj","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:42:00 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Muthukutty_Kanagaraj","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:42:00 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Muthukutty_Kanagaraj","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:42:52 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Archana_Raghunathan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:42:52 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Archana_Raghunathan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:43:22 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Archana_Raghunathan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:43:22 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Archana_Raghunathan","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:51:38 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Jegashree_V","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:51:42 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Jegashree_V","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:51:43 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Jegashree_V","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 12:51:43 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Jegashree_V","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/03/2021 01:22:15 PM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 16/03/2021 08:28:14 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 16/03/2021 09:46:46 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 16/03/2021 09:46:50 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 16/03/2021 09:46:52 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/03/2021 08:58:57 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 18/03/2021 08:59:00 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/03/2021 08:59:01 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 24/03/2021 09:47:37 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/03/2021 10:49:46 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/03/2021 10:49:49 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/03/2021 10:49:50 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/03/2021 10:50:08 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/03/2021 10:50:08 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 15/04/2021 02:14:45 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 15/04/2021 02:14:49 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 15/04/2021 02:14:54 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 15/04/2021 02:14:59 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 15/04/2021 02:15:00 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 19/04/2021 06:32:35 PM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 19/04/2021 06:32:42 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 19/04/2021 06:32:44 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 19/04/2021 06:33:23 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Ajith_SG","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 19/04/2021 06:33:24 PM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"Ajith_SG","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 20/04/2021 10:23:03 AM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/04/2021 10:23:07 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/04/2021 10:23:08 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/04/2021 10:52:02 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"SAP","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 20/04/2021 10:52:03 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"SAP","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:30:08 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 22/04/2021 09:30:11 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:30:11 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:44:13 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:44:14 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:58:03 AM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 22/04/2021 09:58:24 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 22/04/2021 09:58:25 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/04/2021 09:52:39 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 23/04/2021 09:52:49 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/04/2021 09:52:50 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/04/2021 09:53:00 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 23/04/2021 09:53:01 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/04/2021 09:29:39 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/04/2021 03:13:20 PM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 29/04/2021 10:09:48 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 29/04/2021 10:10:16 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 29/04/2021 10:10:19 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/05/2021 09:42:42 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 05/05/2021 09:42:47 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/05/2021 09:42:48 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 05/05/2021 09:55:15 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 05/05/2021 09:55:16 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 12/05/2021 09:09:49 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 12/05/2021 09:09:51 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 12/05/2021 09:09:51 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 12/05/2021 09:10:01 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 12/05/2021 09:10:02 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 03/06/2021 11:21:13 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/06/2021 08:42:36 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/06/2021 08:42:42 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/06/2021 08:42:43 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/06/2021 08:42:55 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2021 08:42:57 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/06/2021 09:20:23 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/06/2021 09:20:27 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/06/2021 09:20:28 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/06/2021 08:32:35 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 11/06/2021 08:32:38 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/06/2021 08:32:38 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/06/2021 08:32:43 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 11/06/2021 08:32:43 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/06/2021 12:09:19 PM
+Khushboo_MathurKhushboo_Mathur
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Khushboo_Mathur",
+  "role": "NoAccess",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 16/06/2021 12:09:25 PM
+Khushboo_MathurKhushboo_Mathur
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 16/06/2021 12:09:26 PM
+Khushboo_MathurKhushboo_Mathur
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 16/06/2021 12:11:01 PM
+Khushboo_MathurKhushboo_Mathur
+{"customerCode":"JCI_CHR","PM":"summity.gupta","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 16/06/2021 12:11:01 PM
+Khushboo_MathurKhushboo_Mathur
+{"customerCode":"JCI_CHR","PM":"summity.gupta","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 17/06/2021 09:13:02 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 17/06/2021 09:13:10 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 17/06/2021 09:13:11 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/06/2021 08:49:26 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 01/07/2021 11:11:22 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 01/07/2021 11:11:33 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 01/07/2021 11:11:33 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 14/07/2021 09:43:30 AM
+sahana.shankaranandsahana.shankaranand
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "sahana.shankaranand",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 14/07/2021 09:43:43 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 14/07/2021 09:43:44 AM
+sahana.shankaranandsahana.shankaranand
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/07/2021 09:31:01 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 23/07/2021 09:31:06 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/07/2021 09:31:06 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 23/07/2021 09:45:31 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 23/07/2021 09:45:33 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/07/2021 11:27:58 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/07/2021 11:28:00 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 30/07/2021 08:16:31 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/08/2021 09:30:14 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/08/2021 09:30:26 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/08/2021 09:30:29 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 19/08/2021 08:08:57 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 19/08/2021 08:09:05 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 19/08/2021 08:09:12 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 30/08/2021 09:13:23 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 30/08/2021 09:13:34 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 30/08/2021 09:13:36 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 01/09/2021 08:15:48 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 24/09/2021 10:06:27 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 24/09/2021 10:06:39 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 24/09/2021 10:06:39 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 24/09/2021 10:06:45 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 24/09/2021 10:06:45 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 14/10/2021 10:14:47 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 14/10/2021 10:14:57 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 14/10/2021 10:15:04 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/11/2021 08:43:08 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 11/11/2021 08:43:15 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 11/11/2021 08:43:16 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 12/11/2021 09:21:51 AM
+Bhavani_K02Bhavani_K02
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Bhavani_K02",
+  "role": "NoAccess",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 19/11/2021 08:34:03 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/11/2021 02:55:15 PM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 25/11/2021 02:55:33 PM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 02:55:41 PM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:00:18 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Avanthi_Duvvuru","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:00:20 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Avanthi_Duvvuru","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:01:39 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Avanthi_Duvvuru","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:01:39 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Avanthi_Duvvuru","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:01:44 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:01:45 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:01:57 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":4,"pagesize":15}
+Time: 25/11/2021 04:02:12 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:02:12 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:02:16 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":3,"pagesize":15}
+Time: 25/11/2021 04:03:08 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:09 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"KiranKumar_Kuppili","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:16 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:17 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:36 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:36 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:03:41 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":2,"pagesize":15}
+Time: 25/11/2021 04:04:16 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:04:17 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Kumaresh_Thoppe","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:04:45 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"HanumaP_Narahari","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:04:45 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"HanumaP_Narahari","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:04:50 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"HanumaP_Narahari","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":2,"pagesize":15}
+Time: 25/11/2021 04:05:20 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"HanumaP_Narahari","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:05:20 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"HanumaP_Narahari","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:05:30 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"LalitHanumant_Jadhav","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:05:30 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"LalitHanumant_Jadhav","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:06:29 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"LalitHanumant_Jadhav","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:06:30 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"LalitHanumant_Jadhav","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:06:35 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Vigneswaran_P01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:06:36 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Vigneswaran_P01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:08:19 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Vigneswaran_P01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:08:19 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Vigneswaran_P01","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:08:24 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Virupaksha_Kalaga","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:08:24 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Virupaksha_Kalaga","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:11:39 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:11:39 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:11:39 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:11:40 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:12:07 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 25/11/2021 04:12:08 PM
+manjunath_c05manjunath_c05
+{"customerCode":"ALL","PM":"Rajesh_Nataraju","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 08/12/2021 09:37:05 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 08/12/2021 09:37:30 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 08/12/2021 09:37:42 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:18 PM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/02/2022 01:08:22 PM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:25 PM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:28 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:29 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:44 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:08:45 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:15 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:15 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:37 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:37 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:42 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:43 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"AmithaDas_K","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:51 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"Satish_Chandrashekar","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:12:51 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"Satish_Chandrashekar","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:16:20 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"Satish_Chandrashekar","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/02/2022 01:16:20 PM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"Satish_Chandrashekar","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 28/02/2022 08:33:49 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/02/2022 08:34:18 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/02/2022 08:34:23 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/03/2022 08:25:21 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 07/03/2022 08:25:29 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/03/2022 08:25:29 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/03/2022 08:25:35 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 07/03/2022 08:25:36 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 11/03/2022 10:04:13 AM
+rashmi.srikantrashmi.srikant
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "rashmi.srikant",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 17/03/2022 09:29:48 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 31/03/2022 08:26:30 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 31/03/2022 08:26:45 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 31/03/2022 08:26:58 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 04/04/2022 09:36:45 AM
+anitha_n06anitha_n06
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "anitha_n06",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/05/2022 10:33:16 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 13/05/2022 09:35:33 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 18/05/2022 10:03:04 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 18/05/2022 10:03:14 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/05/2022 10:03:26 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/05/2022 01:32:35 PM
+heena.nalwayaheena.nalwaya
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "heena.nalwaya",
+  "role": "NoAccess",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 18/05/2022 01:32:39 PM
+heena.nalwayaheena.nalwaya
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/05/2022 01:32:40 PM
+heena.nalwayaheena.nalwaya
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 30/05/2022 09:55:01 AM
+Nirmala.EswarraoNirmala.Eswarrao
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Nirmala.Eswarrao",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/07/2022 09:10:46 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 28/07/2022 09:10:48 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 28/07/2022 09:10:49 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/08/2022 11:56:59 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 10/08/2022 11:57:21 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/08/2022 11:57:24 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 10/08/2022 11:58:35 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 10/08/2022 11:58:36 AM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 21/09/2022 09:02:37 AM
+Jayan_kJayan_k
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "Jayan_k",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 21/09/2022 09:02:45 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 21/09/2022 09:02:46 AM
+Jayan_kJayan_k
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 21/09/2022 09:03:45 AM
+Jayan_kJayan_k
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ORC","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 18/10/2022 10:04:24 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 18/10/2022 10:04:34 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 18/10/2022 10:04:35 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/12/2022 12:50:57 PM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "ADMIN",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/12/2022 12:51:10 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/12/2022 12:51:25 PM
+lumina_ratnarajlumina_ratnaraj
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/02/2023 12:01:57 PM
+rashmi.srikantrashmi.srikant
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "rashmi.srikant",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 09/02/2023 12:02:08 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/02/2023 12:02:09 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 09/02/2023 12:10:54 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 09/02/2023 12:10:55 PM
+rashmi.srikantrashmi.srikant
+{"customerCode":"ALL","PM":"All","DM":"All","glLongText":"ALL","profitCentre":"ALL","PracticeLine":"ALL","category":"ALL","status":"ALL","Commitment":"ALL","MailID":"","role":"","Ageingbucket":"All","pageno":1,"pagesize":15}
+Time: 03/05/2023 09:06:55 AM
+lumina_ratnarajlumina_ratnaraj
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "lumina_ratnaraj",
+  "role": "",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/06/2023 07:57:42 AM
+manjunath_c05manjunath_c05
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "manjunath_c05",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 20/06/2023 07:57:57 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 20/06/2023 07:57:59 AM
+manjunath_c05manjunath_c05
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/08/2023 12:27:37 PM
+anant.jain09anant.jain09
+{
+  "customerCode": "All",
+  "PM": "All",
+  "DM": "All",
+  "ageingBucket": "All",
+  "glLongText": "All",
+  "profitCentre": "All",
+  "category": "All",
+  "status": "All",
+  "practiceLine": "All",
+  "MailID": "anant.jain09",
+  "role": "CUSTOMER",
+  "Commitment": "All",
+  "pageno": -1,
+  "pagesize": 0
+}
+Time: 07/08/2023 12:27:52 PM
+anant.jain09anant.jain09
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}
+Time: 07/08/2023 12:27:58 PM
+anant.jain09anant.jain09
+{"customerCode":"All","Ageingbucket":"All","glLongText":"All","PM":"All","DM":"All","profitCentre":"All","category":"All","status":"All","PracticeLine":"All","MailID":"","role":"","Commitment":"All","pageno":1,"pagesize":15}

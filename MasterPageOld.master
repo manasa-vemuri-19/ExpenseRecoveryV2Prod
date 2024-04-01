@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageOld.master.cs" Inherits="MasterPageOld" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+        <asp:ContentPlaceHolder id="HeadContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <style type="text/css">
+            #content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+            width: 100%;
+        } 
+    html { min-height: 100%;min-width: 100% ;padding:0px; margin:0px}
+body {min-height: 100%; min-width: 100%; padding:0px; margin:0px  }
+            .style1
+        {
+            width: 100%;
+                
+                margin-bottom: 0px;
+            }
+        .style3
+        {
+            width:70%;
+            padding: 0px;
+             margin: 0px;
+                
+            }
+            .style4
+        {
+            width:30%;
+              padding: 0px;
+             margin: 0px;
+               
+            }
+        .scroll_checkboxes
+    {
+        height: 130px;
+        width: 200px;
+        padding: 5px;
+        overflow: auto;
+        border: 1px solid #ccc;
+    }
+    
+     .FormText
+    {
+        FONT-SIZE: 11px;
+        FONT-FAMILY: tahoma,sans-serif
+    }
+    
+    .blink
+    {
+    text-decoration:blink
+    }
+
+            </style>
+</head>
+<body>
+  <%--  <form id="form1" runat="server" enableviewstate="True" 
+    style="padding: 0px; margin: 0px">
+    <div style="padding: 0px; margin: 0px">
+    <table bgcolor="#666666" class="style1" style="padding: 0px; margin: 0px">
+                <tr style="padding: 0px; margin: 0px">
+                    <td class="style3" align="left">
+                       <asp:Menu ID="Menu_MainOptions" runat="server" 
+                            BorderColor="#666666" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" 
+                            ForeColor="White" Orientation="Horizontal">
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle Font-Underline="False" />
+                                <asp:MenuItemStyle BackColor="#5D7B9D" Font-Names="Verdana" Font-Size="8pt" 
+                                    Font-Underline="False" ForeColor="White" Height="20px" Width="115px" />
+                            </LevelMenuItemStyles>
+                            <StaticMenuItemStyle BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" 
+                                HorizontalPadding="5px" VerticalPadding="5px" />
+                            <StaticSelectedStyle BackColor="White" Font-Bold="True" ForeColor="#5D7B9D" />
+                           <Items>
+                           <asp:MenuItem NavigateUrl="~/ExpenseRecoverySummary.aspx" Text="Summary" 
+                                    Value="Summary"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ExpenseRecovery.aspx" Text="Expense Recovery" 
+                                    Value="Expense Recovery"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/DelegateAccess.aspx" Text="Delegate Access" 
+                                    Value="Delegate Access"></asp:MenuItem>                              
+                            </Items>
+                        </asp:Menu>                     
+                 </td>
+                 <td class="style4" align="right">
+                     <asp:Label ID="lblAsofdate" runat="server" style="text-align: right" Font-Names="Verdana"
+                                        Font-Size="8pt" Font-Bold="true" ForeColor="White"   Text="Label"></asp:Label>
+                        </td>
+                                        </tr>                         
+ </table>                
+                </div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+                
+           
+ 
+                
+                <%--    <td class="style5">
+                    
+                    
+                    
+                      
+                                        
+                    
+                    <%--
+                    <td class="style2" align="right">
+                        <asp:Label ID="lblWel" runat="server" Font-Bold="True" Font-Names="Verdana" style="text-align: right"
+                            Font-Size="8pt" ForeColor="White" Text="Welcome :"></asp:Label>
+&nbsp;&nbsp;
+                        <asp:Label ID="lblName" runat="server" Font-Bold="True" Font-Names="Verdana" style="text-align: right"
+                            Font-Size="8pt" ForeColor="White"></asp:Label>--%>
+              <%--      </td>--%>
+                        <%--<asp:Menu ID="Menu_MainOptions" runat="server" BackColor="#5D7B9D" 
+                            BorderColor="#E0E0E0" BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" 
+                            ForeColor="White" Orientation="Horizontal" Font-Bold="True">
+                            <StaticMenuStyle 
+                                HorizontalPadding="5px" />
+                            <StaticSelectedStyle BackColor="White" ForeColor="#5D7B9D" />
+                            <StaticMenuItemStyle BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" 
+                                HorizontalPadding="5px" VerticalPadding="5px" />
+                            <Items>
+                                <asp:MenuItem Text="Delayed Billing" Value="Delayed Billing" 
+                                    NavigateUrl="DelayedBilling.aspx" Selected="True"></asp:MenuItem>
+                                <asp:MenuItem Text="Reports" Value="Reports">
+                                    <asp:MenuItem NavigateUrl="http://blrkecfsidb/ReportServer1/Pages/ReportViewer.aspx?%2fResourceUtil_Summary%2fAge_Summary" 
+                                        Text="Ageing Summary" Value="Ageing Summary"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="http://blrkecfsidb/ReportServer1/Pages/ReportViewer.aspx?%2fResourceUtil_Summary%2fStatus_Summary" 
+                                        Text="Status Summary" Value="Status Summary"></asp:MenuItem>
+                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>--%>
+                   
+               
+         
+
+    
+ 
+        
+       
+    </form>--%>
+</body>
+</html>

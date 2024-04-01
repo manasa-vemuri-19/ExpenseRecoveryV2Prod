@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Expense Recovery", "..\Expense Recovery", "{C701AE3D-8D10-4124-9446-976BB2277A9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Expense Recovery"
+		Debug.AspNetCompiler.PhysicalPath = "..\Expense Recovery\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Expense Recovery\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Expense Recovery"
+		Release.AspNetCompiler.PhysicalPath = "..\Expense Recovery\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Expense Recovery\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55691"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C701AE3D-8D10-4124-9446-976BB2277A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C701AE3D-8D10-4124-9446-976BB2277A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+ <asp:ContentPlaceHolder id="HeadContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <style type="text/css">
+         html { min-height: 100%;min-width: 100% ;padding:0px; margin:0px}
+body {min-height: 100%; min-width: 100%; padding:0px; margin:0px; background-color:White  }
+
+  .style1
+        {
+            width: 100%;
+                
+                margin-bottom: 0px;
+            }
+.style3
+        {
+            width:70%;
+            padding: 0px;
+             margin: 0px;
+                
+            }
+            .style4
+        {
+            width:30%;
+              padding: 0px;
+             margin: 0px;
+               
+            }
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+  <%--  <div>
+    <table class="style1" 
+            
+            style="padding: 0px; margin: 0px; background-image:url(img/banner.jpg)"
+            ;>
+                    <tr style="padding: 0px; margin: 0px">
+                    <td class="style3" align="left">
+                       <asp:Menu ID="Menu_MainOptions" runat="server" 
+                            BorderWidth="1px" Font-Names="Calibri" Font-Size="9pt" 
+                            ForeColor="White" Orientation="Horizontal">
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle Font-Underline="False" />
+                                <asp:MenuItemStyle Font-Names="Calibri" Font-Size="9pt" 
+                                    Font-Underline="False" ForeColor="White" Height="20px" Width="115px" />
+                            </LevelMenuItemStyles>
+                            <StaticMenuItemStyle BorderStyle="Solid" BorderWidth="1px" 
+                                HorizontalPadding="5px" VerticalPadding="5px" />
+                            <StaticSelectedStyle BackColor="White" Font-Bold="True" ForeColor="#5D7B9D" />
+                           <Items>
+                           <asp:MenuItem NavigateUrl="~/ExpenseRecoverySummary.aspx" Text="Summary" 
+                                    Value="Summary"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ExpenseRecovery.aspx" Text="Expense Recovery" 
+                                    Value="Expense Recovery"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/DelegateAccess.aspx" Text="Delegate Access" 
+                                    Value="Delegate Access"></asp:MenuItem>                              
+                            </Items>
+                        </asp:Menu>                     
+                 </td>
+                 <td class="style4" align="right" 
+                       >
+                     <asp:Label ID="lblAsofdate" runat="server" Font-Names="Calibri"
+                                        Font-Size="9pt" Font-Bold="true" ForeColor="White" Text="Label"></asp:Label>
+                        </td>
+                                        </tr>                         
+ </table>
+    </div>--%><div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        <iframe name="Frame"></iframe>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

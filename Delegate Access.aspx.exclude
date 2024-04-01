@@ -1,0 +1,257 @@
+﻿
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Delegate Access.aspx.cs" Inherits="Delegate_Accessaspx" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table>
+     
+    <tr>
+        <td colspan="3">
+            <asp:Label ID="lblMessage" runat="server" Visible="false"></asp:Label>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <asp:Label ID="lblEmpmailID" runat="server" Text="EmpmailID : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+            <asp:TextBox ID="txtEmpmailID" runat="server" Font-Names="Verdana" Font-Size="8pt"></asp:TextBox>
+            &nbsp;
+            <asp:Label ID="lblMailIDMessage" runat="server" Text="*Please enter multiple MailIDs comma separated (without suffixing @infosys.com)" Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+        </td>
+    </tr>
+
+        <tr>
+        <td>
+            &nbsp;</td>
+    </tr>
+
+    <tr>
+        <td>
+            <asp:RadioButtonList ID="rdlSelection" runat="server" AutoPostBack="true" 
+                Font-Names="Verdana" Font-Size="9pt" RepeatDirection="Horizontal" OnSelectedIndexChanged="rdlSelection_SelectedIndexChanged" >
+
+               
+                <asp:ListItem>MCC</asp:ListItem>
+                <asp:ListItem>CC</asp:ListItem>
+                <asp:ListItem>PracticeLine</asp:ListItem>
+                <asp:ListItem>ProfitCentre</asp:ListItem>
+                <asp:ListItem>PM</asp:ListItem>
+                <asp:ListItem>DM</asp:ListItem>
+           
+
+               
+            </asp:RadioButtonList>            
+        </td>
+    </tr>
+
+
+
+         <tr>
+        <td>
+            <asp:Panel ID="plCustomerCode" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblCustomerCode" runat="server" Text="Customer Codes : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkCustomerCode" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllCustomerCode_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkCustomerCode" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllCustomerCode_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkCustomerCodeList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+       
+  <tr>
+        <td>
+            <asp:Panel ID="plMCC" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblMCC" runat="server" Text="MCCs : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkMCC" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllMCC_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkMCC" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllMCC_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkMCCList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+       
+  <tr>
+        <td>
+            <asp:Panel ID="plPracticeLine" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblPracticeLine" runat="server" Text="Practice Lines : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkPracticeLine" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllPracticeLine_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkPracticeLine" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllPracticeLine_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkPracticeLineList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+         <tr>
+        <td>
+            <asp:Panel ID="plProfitCentre" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblProfitCentre" runat="server" Text="Profit Centres : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkProfitCentre" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllProfitCentre_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkProfitCentre" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllProfitCentre_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkProfitCentreList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+       
+  <tr>
+        <td>
+            <asp:Panel ID="plPM" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblPM" runat="server" Text="PMs : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkPM" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllPM_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkPM" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllPM_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkPMList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+       
+
+  <tr>
+        <td>
+            <asp:Panel ID="plDM" runat="server" Width="100%" Visible="false">
+                <table>
+                    <tr>
+                        <td>
+                            <br />
+                            <asp:Label ID="lblDM" runat="server" Text="DMs : " Font-Names="Verdana" Font-Size="9pt"></asp:Label>
+                        </td>
+                           <tr>
+                        <td>
+                            <asp:LinkButton ID="lnkchkDM" runat="server" Text="Select All" ForeColor="Blue" OnClick="lbSelectAllDM_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                            &nbsp;&nbsp;
+                            <asp:LinkButton ID="lnkUnchkDM" runat="server" Text="Unselect All" ForeColor="Blue" OnClick="lbUnselectAllDM_Click" Font-Names="Verdana" Font-Size="8pt"></asp:LinkButton>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="scroll_checkboxes">
+                                <asp:CheckBoxList ID="chkDMList" runat="server" CssClass="FormText" RepeatDirection="Vertical" 
+                            RepeatColumns="1" BorderWidth="0">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+       
+
+       
+        <td>
+            <br />
+            <br />
+            <asp:Button ID="btnDelegate" runat="server" Text="Delegate Access" Font-Names="Verdana" 
+                Font-Size="9pt" onclick="btnDelegate_Click" />
+        </td>
+    </tr>
+                </table>
+            </asp:Panel></td>
+                    </tr>
+
+
+
+
+    </table>
+    </div>
+    </form>
+</body>
+</html>

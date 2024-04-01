@@ -1,0 +1,434 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="test.aspx.cs" Inherits="test" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <asp:GridView ID="gvExpenseRec" runat="server" AutoGenerateColumns="False"   
+            Font-Names="Verdana" Font-Size="8pt" ForeColor="#333333" 
+            ShowFooter="True" EnableModelValidation="True" AllowPaging="True"   onpageindexchanging="gvExpenseRec_ExceptionPageIndexChanging"  
+              
+             
+               PageSize="10" onrowdatabound="gvExpenseRec_ExceptionRowDataBound" 
+            GridLines="None" Width="200px" 
+             >
+            <RowStyle  ForeColor="#333333" 
+                HorizontalAlign="Left" VerticalAlign="Top" BackColor="#FFFBD6"  />
+        <Columns>
+            <asp:TemplateField HeaderText="ID " 
+                    AccessibleHeaderText="ID" Visible="False" >
+                    <ItemTemplate>
+                        <asp:Label ID="lblID" runat="server" ></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False" ForeColor="White"/>
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+          <asp:TemplateField HeaderText="Mark for Edit" AccessibleHeaderText="Mark for Edit " >
+                                <EditItemTemplate>
+                                    <asp:CheckBox ID="CheckBox1" runat="server" />
+                                </EditItemTemplate>
+                                <ItemTemplate>
+                                    <asp:CheckBox ID="cbEdit" runat="server" Font-Names="Verdana" Font-Size="8pt" autopostback="true" OnCheckedChanged="chkChange_Click" />
+                                </ItemTemplate>
+                                <HeaderStyle  BackColor="#666666" />
+                            </asp:TemplateField>
+           
+                <asp:TemplateField HeaderText="Active Project Code" 
+                    AccessibleHeaderText="Active Project Code">
+                    <ItemTemplate>
+                        <asp:Label ID="lblActiveProjectCode" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666"  ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="Customer Code" 
+                    AccessibleHeaderText="CustomerCode">
+                    <ItemTemplate>
+                        <asp:Label ID="lblCustomerCode" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+            
+                         <asp:TemplateField HeaderText="Amount in USD" 
+                    AccessibleHeaderText="AmntUSD">
+                    <ItemTemplate>
+                        <asp:Label ID="lblAmntUSD" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                                <asp:TemplateField HeaderText="Date (mm/dd/yyyy) by when expense will be closed in system"  InsertVisible="False" SortExpression="SubCategory" ItemStyle-HorizontalAlign="Center" ItemStyle-VerticalAlign="Top">
+                            <HeaderStyle ForeColor="White" />
+                            
+                            <ItemTemplate>
+                                <asp:Label ID="lblExpenseClosureDate" runat="server"    ></asp:Label>
+                         <%--        Text='<%# Eval("[BillCommitmntdt]","{0:d}") %>'--%>
+                             
+                                     <asp:Button ID="btnDate" runat="Server" CssClass="menuTop" Font-Names="Verdana" 
+                            Font-Size="8pt" onclick="btnDate_Click" Text="v"  />
+                        <br />
+
+                        <asp:Calendar ID="CalExpenseClosureDate" runat="server" BackColor="White" 
+                            BorderColor="#999999" CellPadding="4" DayNameFormat="Shortest" 
+                            Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" Height="180px" 
+                           Visible="False" Width="200px"  OnSelectionChanged="CalExpenseClosureDate_SelectionChanged" >
+                            <SelectedDayStyle BackColor="#666666" Font-Bold="True" ForeColor="White" />
+                            <TodayDayStyle BackColor="#CCCCCC" ForeColor="Black" />
+                            <SelectorStyle BackColor="#CCCCCC" />
+                            <OtherMonthDayStyle ForeColor="#808080" />
+                            <NextPrevStyle VerticalAlign="Bottom" />
+                            <DayHeaderStyle BackColor="#CCCCCC" Font-Bold="True" Font-Size="7pt" />
+                            <TitleStyle BackColor="#999999" BorderColor="Black" Font-Bold="True" />
+                            <WeekendDayStyle BackColor="#FFFFCC" />
+                        </asp:Calendar>
+                        
+                          <asp:TextBox ID="txtCal" runat="server"  Visible=false ></asp:TextBox>
+                           <asp:RequiredFieldValidator ID="reqValDate" Visible=false  runat="server" ControlToValidate="txtCal" ErrorMessage="Please select a date."></asp:RequiredFieldValidator>
+                    </ItemTemplate>
+                  
+
+
+<ItemStyle HorizontalAlign="Center" VerticalAlign="Top"></ItemStyle>
+
+
+                        </asp:TemplateField>
+
+                                <asp:TemplateField HeaderText="Category" InsertVisible="False" SortExpression="SubCategory"  ItemStyle-HorizontalAlign="Center" ItemStyle-VerticalAlign="Top">
+                            <HeaderStyle ForeColor="White" />
+                          
+                            <ItemTemplate>
+                                <asp:Label ID="lblCategory" runat="server"  ></asp:Label>
+                                <asp:DropDownList ID="ddlCategory" runat="server"  Visible='<%# IsInEditMode %>'
+                                    AutoPostBack="true" onselectedindexchanged="ddlCategory_SelectedIndexChanged" >   
+                                </asp:DropDownList>
+                            </ItemTemplate>
+
+
+<ItemStyle HorizontalAlign="Center" Width="200px" VerticalAlign="Top"></ItemStyle>
+
+
+                        </asp:TemplateField>
+                
+                 <asp:TemplateField HeaderText="Status" InsertVisible="False" SortExpression="SubSubCategory"  ItemStyle-HorizontalAlign="Center" ItemStyle-VerticalAlign="Top">
+                            <HeaderStyle ForeColor="White" />
+                           
+                            <ItemTemplate>
+                                <asp:Label ID="lblSubCategory" runat="server"  ></asp:Label>
+                                <asp:DropDownList ID="ddlSubCategory" runat="server" Visible='<%# IsInEditMode %>'  
+                                    AutoPostBack="true" onselectedindexchanged="ddlSubCategory_SelectedIndexChanged" >   
+                                </asp:DropDownList>
+                            </ItemTemplate>
+
+
+<ItemStyle HorizontalAlign="Center" VerticalAlign="Top"></ItemStyle>
+
+
+                        </asp:TemplateField>
+
+                        <%-- <asp:TemplateField HeaderText="Comments" InsertVisible="False" >
+                            <HeaderStyle ForeColor="White" />
+                           
+                            <ItemTemplate>
+                                <asp:Label ID="lblComments" runat="server" Visible='<%# !(bool) IsInEditMode %>'  ></asp:Label>
+                                <asp:TextBox ID="TxtComments" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                                  
+                            </ItemTemplate>
+                        </asp:TemplateField--%>
+
+
+                            <asp:TemplateField HeaderText="Update from Account team" InsertVisible="False" SortExpression="SubCategory" Visible="false">
+                            <HeaderStyle ForeColor="White" />
+                            <EditItemTemplate>
+                               
+                                <asp:DropDownList ID="ddlUpdatefromAccountteam" runat="server"  
+                                    AutoPostBack="True" 
+                                    ></asp:DropDownList>
+                             </EditItemTemplate>
+                            <ItemTemplate>
+                                <asp:Label ID="lblUpdatefromAccountteam" runat="server" ></asp:Label>
+                                <asp:DropDownList ID="ddlUpdatefromAccountteam" runat="server"  
+                                    AutoPostBack="true" onselectedindexchanged="ddlUpdatefromAccountteam_SelectedIndexChanged" 
+                                   >
+                                    <%--<asp:ListItem Text="Already Invoiced" Value="Already Invoiced" />
+                                    <asp:ListItem Text="Will be Billed in the Current Month" Value="Will be Billed in the Current Month" />
+                                    <asp:ListItem Text="Will be Billed in Current Quarter" Value="Will be Billed in Current Quarter" />
+                                    <asp:ListItem Text="Will be Billed in Next Quarter" Value="Will be Billed in Next Quarter" />
+                                    <asp:ListItem Text="To be reversed -  DM Approval Obtained" Value="To be reversed -  DM Approval Obtained" />
+                                    <asp:ListItem Text="To be reversed -  DM Approval pending" Value="To be reversed -  DM Approval pending" />--%>
+                                    
+                                </asp:DropDownList>
+                                
+                                
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Invoice/Confirmation No"  InsertVisible="False" SortExpression="Invoice No" ItemStyle-VerticalAlign="Top" ItemStyle-HorizontalAlign="Center">
+                              <HeaderStyle ForeColor="White" />
+                               <ItemStyle VerticalAlign="Top" />
+                            
+                            <ItemTemplate>
+                                <asp:Label ID="lblInvoiceNo" runat="server" Visible="true"></asp:Label>
+                                <asp:TextBox ID="TxtInvoiceNo" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                                  <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Please enter invoice no." ControlToValidate="TxtInvoiceNo" Enabled="false" ></asp:RequiredFieldValidator>    
+                                <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" Enabled="false" ErrorMessage="Please enter a valid Invoice/Confirmation number" ControlToValidate="TxtInvoiceNo" ValidationExpression='[0-9]+'></asp:RegularExpressionValidator>
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                        
+                         <%--    <asp:TemplateField HeaderText="Confirmation No"  InsertVisible="False" SortExpression="Confirmation No" ItemStyle-VerticalAlign="Top">
+                              <HeaderStyle ForeColor="White" />
+                               <ItemStyle VerticalAlign="Top" />
+                            <EditItemTemplate>
+                               
+                                <asp:TextBox ID="TxtConfirmationNo" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                            </EditItemTemplate>
+                            <ItemTemplate>
+                                <asp:Label ID="lblConfirmationNo" runat="server" Visible='<%# !(bool) IsInEditMode %>'></asp:Label>
+                                <asp:TextBox ID="TxtConfirmationNo" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                                  <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Please enter confirmation no." ControlToValidate="TxtConfirmationNo" Enabled="false" ></asp:RequiredFieldValidator>    
+                            </ItemTemplate>
+                        </asp:TemplateField>--%>
+                        
+                          <asp:TemplateField HeaderText="AHD Req No"  InsertVisible="False" SortExpression="Serv Centrale Req No" ItemStyle-VerticalAlign="Top">
+                              <HeaderStyle ForeColor="White" />
+                              <ItemStyle VerticalAlign="Top" />
+
+                         
+                            <ItemTemplate>
+                                <asp:Label ID="lblServCentraleReqNo" runat="server" Visible='<%# !(bool) IsInEditMode %>'></asp:Label>
+                                <asp:TextBox ID="TxtServCentraleReqNo" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                                  <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Please enter req no." ControlToValidate="TxtServCentraleReqNo" Enabled="false" ></asp:RequiredFieldValidator>    
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                        
+                      
+                        
+                            <asp:TemplateField HeaderText="Remarks"  InsertVisible="False" SortExpression="Remarks" ItemStyle-HorizontalAlign="Center" ItemStyle-VerticalAlign="Top">
+                              <HeaderStyle ForeColor="White" />
+                               <ItemStyle VerticalAlign="Top" />
+                           
+                            <ItemTemplate>
+                                <asp:Label ID="lblRemarks" runat="server" Visible='<%# !(bool) IsInEditMode %>' ></asp:Label>
+                                <asp:TextBox ID="TxtRemarks" runat="server" Visible='<%# IsInEditMode %>' ></asp:TextBox>
+                                <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="Please provide your comments." ControlToValidate="TxtRemarks" Enabled="false"></asp:RequiredFieldValidator>    
+                            </ItemTemplate>
+                            
+                        </asp:TemplateField>
+                        <asp:TemplateField HeaderText="Client IBU " 
+                    AccessibleHeaderText="Client IBU" >
+                    <ItemTemplate>
+                        <asp:Label ID="lblClientIBU" runat="server" ></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White"/>
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="PM Mail Id" 
+                    AccessibleHeaderText="PM">
+                    <ItemTemplate>
+                        <asp:Label ID="lblPM" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="DM Mail Id" 
+                    AccessibleHeaderText="DM">
+                    <ItemTemplate>
+                        <asp:Label ID="lblDM" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+    <asp:TemplateField HeaderText="Profit Center" 
+                    AccessibleHeaderText="Profit Center">
+                    <ItemTemplate>
+                        <asp:Label ID="lblProfitCenter" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                   <asp:TemplateField HeaderText="Reference" 
+                    AccessibleHeaderText="Reference">
+                    <ItemTemplate>
+                        <asp:Label ID="lblReference" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                   <asp:TemplateField HeaderText="Document Number" 
+                    AccessibleHeaderText="Document Number">
+                    <ItemTemplate>
+                        <asp:Label ID="lblDocumentNumber" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+        
+                        
+                        
+                
+                 <asp:TemplateField HeaderText="Local Currency" 
+                    AccessibleHeaderText="LocalCurrency">
+                    <ItemTemplate>
+                        <asp:Label ID="lblLocalCurrency" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                 <asp:TemplateField HeaderText="Amount in Local Currency" 
+                    AccessibleHeaderText="Amount in Local Currency">
+                    <ItemTemplate>
+                        <asp:Label ID="lblAmntLC" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                 
+                
+                 <asp:TemplateField HeaderText="Posting Date" 
+                    AccessibleHeaderText="Posting Date">
+                    <ItemTemplate>
+                        <asp:Label ID="lblPostingDate" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+
+                </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Text" 
+                    AccessibleHeaderText="Text" >
+                
+                    <ItemTemplate>
+                        <asp:Label ID="lblText" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="true" Width="200px" />
+                </asp:TemplateField>
+
+                        <asp:TemplateField HeaderText="Country" 
+                    AccessibleHeaderText="Country">
+                    <ItemTemplate>
+                        <asp:Label ID="lblCountry" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+        
+                
+                  <asp:TemplateField HeaderText="Ageing Days" 
+                    AccessibleHeaderText="Ageing Days">
+                    <ItemTemplate>
+                        <asp:Label ID="lblAgeingDays" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="Ageing Bucket" 
+                    AccessibleHeaderText="Ageing Bucket" Visible="false">
+                    <ItemTemplate>
+                        <asp:Label ID="lblAgeingBucket" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="Contract Type" 
+                    AccessibleHeaderText="Contract Type">
+                    <ItemTemplate>
+                        <asp:Label ID="lblContractType" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="Vendor Code" 
+                    AccessibleHeaderText="Vendor Code">
+                    <ItemTemplate>
+                        <asp:Label ID="lblVendorCode" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="G/L Acct Long Text" 
+                    AccessibleHeaderText="G/L Acct Long Text">
+                    <ItemTemplate>
+                        <asp:Label ID="lblGLAcctLongText" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="Update" 
+                    AccessibleHeaderText="Update">
+                    <ItemTemplate>
+                        <asp:Label ID="lblUpdate" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                     <asp:TemplateField HeaderText="LastUpdatedBY" 
+                    AccessibleHeaderText="LastUpdatedBY">
+                    <ItemTemplate>
+                        <asp:Label ID="lblLastUpdatedBY" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+
+                     <asp:TemplateField HeaderText="LastUpdatedOn" 
+                    AccessibleHeaderText="LastUpdatedOn">
+                    <ItemTemplate>
+                        <asp:Label ID="lblLastUpdatedOn" runat="server"></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+                
+                  <asp:TemplateField HeaderText="ResponseFromFinance" 
+                    AccessibleHeaderText="ResponseFromFinance">
+                    <ItemTemplate>
+                        <asp:Label ID="lblResponseFromFinance" runat="server" ></asp:Label>
+                    </ItemTemplate>
+                    <HeaderStyle Wrap="False"  BackColor="#666666" ForeColor="White" />
+                    <ItemStyle Wrap="False" />
+                </asp:TemplateField>
+         
+                     <asp:TemplateField HeaderText="Unique" 
+                    AccessibleHeaderText="Unique" Visible="False">
+                    <ItemTemplate>
+                        <asp:Label ID="lblUnique" runat="server"></asp:Label>
+                    </ItemTemplate>
+                
+                </asp:TemplateField>
+
+                      <asp:TemplateField HeaderText="SubCategory_Old" 
+                    AccessibleHeaderText="SubCategory_Old" Visible="False">
+                    <ItemTemplate>
+                        <asp:Label ID="lblSubCategory_Old" runat="server"></asp:Label>
+                    </ItemTemplate>
+                
+                </asp:TemplateField>
+      
+        </Columns>
+            <PagerStyle BackColor="#FFCC66" ForeColor="#333333" HorizontalAlign="Left" />
+            <SelectedRowStyle BackColor="#FFCC66" Font-Bold="True" ForeColor="Navy" />
+            <HeaderStyle HorizontalAlign="Center" 
+                VerticalAlign="Top" Font-Bold="True" ForeColor="White" />
+            <FooterStyle BackColor="#666666" Font-Bold="True" ForeColor="White" HorizontalAlign="Left" />
+            <AlternatingRowStyle BackColor="White" />
+    </asp:GridView>   
+    </div>
+    </form>
+</body>
+</html>

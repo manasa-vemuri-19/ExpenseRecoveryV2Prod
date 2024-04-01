@@ -1,0 +1,173 @@
+
+Dim wks As Worksheet
+Dim Pt1, Pt2   As PivotTable
+Dim PF1, PF2   As PivotField
+
+Set wks = Worksheets.Add
+ActiveSheet.Name = "Summary"
+
+With wks
+    ActiveWorkbook.PivotCaches.Create(SourceType:=xlDatabase, SourceData:= _
+        "Data!A:AG", Version:=xlPivotTableVersion14).CreatePivotTable _
+        TableDestination:=Sheets("Summary").Range("A3"), TableName:="PivotTable1", DefaultVersion _
+        :=xlPivotTableVersion14
+End With
+    
+Set Pt1 = ActiveSheet.PivotTables("PivotTable1")
+
+
+    With Pt1.PivotFields("SDM")
+        .Orientation = xlPageField
+        .Position = 1
+    End With
+    
+    With Pt1.PivotFields("Profit Center")
+        .Orientation = xlPageField
+        .Position = 2
+    End With
+    
+    With Pt1.PivotFields("DH")
+        .Orientation = xlPageField
+        .Position = 3
+    End With
+    
+    With Pt1.PivotFields("Category")
+        .Orientation = xlRowField
+        .Position = 1
+    End With
+    
+    With Pt1.PivotFields("Status")
+        .Orientation = xlRowField
+        .Position = 2
+    End With
+    
+   
+    With Pt1.PivotFields("SubUnit")
+        .Orientation = xlColumnField
+        .Position = 1
+    End With
+    
+    With Pt1.PivotFields("SubUnit")
+        .PivotItems("(blank)").Visible = False
+    End With
+   
+  
+    Set PF1 = Pt1.PivotFields("Amnt in USD")
+    Pt1.AddDataField PF1, "Amnt in USD" & " ", xlSum
+    
+    
+    Pt1.RowAxisLayout xlTabularRow
+    Pt1.CompactLayoutRowHeader = "OVERALL SUMMARY"
+    Pt1.PivotFields("Category").Subtotals = Array(False, False, False, False, False, False, False, False, False, False, False, False)
+        
+    Pt1.PivotSelect "Category['Update Pending']", xlDataAndLabel, True
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Selection.Font.Bold = True
+    
+    Pt1.PivotSelect "Status['Past Commitment','Update Pending']", xlDataAndLabel, True
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Selection.Font.Bold = True
+        
+With wks
+    ActiveWorkbook.PivotCaches.Create(SourceType:=xlDatabase, SourceData:= _
+        "Data!A:AF", Version:=xlPivotTableVersion14).CreatePivotTable _
+        TableDestination:=Sheets("Summary").Range("A25"), TableName:="PivotTable2", DefaultVersion _
+        :=xlPivotTableVersion14
+End With
+
+Set Pt2 = ActiveSheet.PivotTables("PivotTable2")
+
+
+    With Pt2.PivotFields("SubUnit")
+        .Orientation = xlPageField
+        .Position = 1
+    End With
+    
+     
+    With Pt2.PivotFields("Profit Center")
+        .Orientation = xlRowField
+        .Position = 1
+    End With
+
+    With Pt2.PivotFields("SDM")
+        .Orientation = xlRowField
+        .Position = 2
+    End With
+    
+    With Pt2.PivotFields("Status")
+        .Orientation = xlColumnField
+        .Position = 1
+    End With
+    
+    With Pt2.PivotFields("SubUnit")
+        .PivotItems("(blank)").Visible = False
+    End With
+   
+  
+    Set PF2 = Pt2.PivotFields("Amnt in USD")
+    Pt2.AddDataField PF2, "Amnt in USD" & " ", xlSum
+  
+    Pt2.RowAxisLayout xlTabularRow
+    With Pt2.PivotFields("Status")
+    For Each Pi In .PivotItems
+        If Trim(Pi.Caption) = "Past Commitment" Or Trim(Pi.Caption) = "Update Pending" Then
+            If Pi.Visible = False Then
+             Pi.Visible = True
+            End If
+        Else
+            If Pi.Visible = True Then
+             Pi.Visible = False
+            End If
+        End If
+    Next
+    End With
+  
+    Pt2.PivotFields("Profit Center").ShowDetail = False
+    Pt2.PivotSelect "Status['Past Commitment','Update Pending']", xlDataAndLabel, True
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Selection.Font.Bold = True
+    
+    Sheets("Summary").Range("A:BZ").Select
+    With Selection.Font
+        .Name = "Times New Roman"
+        .Size = 8
+    End With
+    
+    ActiveWorkbook.ShowPivotTableFieldList = False
+    ActiveWindow.DisplayGridlines = False
+    
+    Sheets("Summary").Move Before:=Sheets(1)
+    Sheets("Summary").Range("A1").Select
+    Sheets("Summary").Cells.Rows("7:7").EntireRow.AutoFit
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
